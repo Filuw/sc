@@ -1,0 +1,94 @@
+#regoin InputLang
+
+switch (inputLang)
+
+{
+case "Азербайджанский":
+lp.InputLang = Lang.Az;
+break;
+case "Албанский";
+lp.InputLang = Lang.Sq;
+break;
+case "Английский":
+lp.InputLang = Lang.En;
+break;
+case "Арабский":
+break;
+case "Армянский":
+lp.InputLang = Lang.Hy;
+break;
+case "Африканский":
+break;
+case "Баскский":
+break;
+case "Башкирский":
+break;
+case "Белорусский":
+lp.InputLang = Lang.Hy;
+break;
+case "Бенгальский":
+break;
+case "Болгарский":
+lp.InputLang = Lang.Bg;
+break;
+case "Боснийский":
+break;
+case "Валлийский":
+break;
+case "Венгерский":
+lp.InputLang = Lang.Hu;
+break;
+case "Вьетнамский":
+break;
+case "Гаитянский":
+break;
+case "Галийский":
+break;
+case "Голландский":
+break;
+case "Греческий":
+lp.InputLang = Lang.El;
+break;
+case "Грузинский":
+break;
+case "Гуджарати":
+break;
+case "Датский":
+lp.InputLang = Lang.Da;
+break;
+case "Иврит":
+break;
+case "Индонезийский":
+break;
+case "Ирландский":
+break;
+case "Исландский":
+break;
+case "Испанский":
+lp.InputLang = Lang.Es;
+break;
+case "Итальянский":
+lp.InputLang = Lang.It;
+break;
+case "Казахский":
+break;
+case "Каннада":
+break;
+case "Каталанский":
+lp.InputLang = Lang.Ca;
+break;
+case "Киргизкий":
+break;
+case "Китайский":
+break;
+case "Корейский":
+break;
+case "Латынь":
+break;
+case "Латышский":
+lp.InputLang = Lang.Lv;
+break;
+case "Литовский":
+lp.InputLang = Lang.Lt;
+break;
+}
